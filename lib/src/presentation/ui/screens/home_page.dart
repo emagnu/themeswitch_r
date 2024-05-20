@@ -22,8 +22,8 @@ class HomePage extends StatelessWidget {
             children: <Widget>[
               Image.asset(
                 'assets/images/computing.jpg',
-                width: 200,
-                height: 200,
+                width: 300,
+                height: 300,
               ),
               const SizedBox(height: 10.0),
               Text('Riverpod & Persistent Theming',
